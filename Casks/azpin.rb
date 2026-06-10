@@ -1,6 +1,6 @@
 cask "azpin" do
-  version "0.3.8"
-  sha256 "0ffe44f56d5fa4bbe92044db71e6fccb0497ce6982b899b88e2d6c50465046a2"
+  version "0.3.13"
+  sha256 "c4a31c0fb599053844defab10a81317fe548d5d1349896139f75dbbf2f2c1210"
 
   url "https://github.com/lfmundim/AzPin/releases/download/v#{version}/AzPin-#{version}.dmg"
   name "AzPin"
